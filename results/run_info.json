@@ -1,0 +1,32 @@
+{
+  "train_rows": 6448,
+  "val_rows": 1261,
+  "test_rows": 3802,
+  "n_features": 24,
+  "features": [
+    "AQI_lag1",
+    "AQI_lag2",
+    "AQI_lag3",
+    "AQI_lag7",
+    "AQI_rollmean3",
+    "AQI_rollmean7",
+    "AQI_rollstd7",
+    "PM2.5_lag1",
+    "PM10_lag1",
+    "NO2_lag1",
+    "SO2_lag1",
+    "CO_lag1",
+    "O3_lag1",
+    "NH3_lag1",
+    "month",
+    "dayofweek",
+    "dayofyear",
+    "city_Ahmedabad",
+    "city_Bengaluru",
+    "city_Chennai",
+    "city_Delhi",
+    "city_Hyderabad",
+    "city_Lucknow",
+    "city_Mumbai"
+  ]
+}

@@ -1,0 +1,5 @@
+model,RMSE,MAE,R2,category_accuracy_%
+Persistence baseline (AQI_t-1),41.94,23.81,0.88,75.9
+Linear Regression,37.86,23.99,0.902,73.8
+XGBoost,33.48,20.6,0.923,76.9
+ANN,37.19,26.49,0.905,68.9

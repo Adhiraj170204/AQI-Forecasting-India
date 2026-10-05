@@ -1,0 +1,8 @@
+city,ANN,Linear Regression,Persistence baseline (AQI_t-1),XGBoost
+Ahmedabad,67.19,74.85,80.93,64.2
+Bengaluru,14.52,10.58,12.41,10.97
+Chennai,27.7,25.98,30.17,25.4
+Delhi,40.13,41.87,47.3,37.95
+Hyderabad,24.12,14.13,13.68,12.67
+Lucknow,36.73,40.31,46.15,34.24
+Mumbai,29.04,17.96,21.04,19.32

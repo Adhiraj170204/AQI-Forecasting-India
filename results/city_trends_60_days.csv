@@ -1,0 +1,8 @@
+City,mean_aqi,max_aqi,days_with_data,pct_days_poor_or_worse
+Delhi,346.4,500.0,60,90.0
+Ahmedabad,334.8,500.0,60,80.0
+Lucknow,309.8,455.0,60,88.3
+Mumbai,159.7,283.0,60,21.7
+Hyderabad,135.0,186.0,60,0.0
+Chennai,101.0,294.0,60,11.7
+Bengaluru,88.7,174.0,60,0.0

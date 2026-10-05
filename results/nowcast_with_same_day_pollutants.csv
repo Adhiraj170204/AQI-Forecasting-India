@@ -1,0 +1,4 @@
+model,RMSE,R2
+Linear Regression,31.21,0.933
+XGBoost,22.13,0.967
+ANN,28.73,0.944
